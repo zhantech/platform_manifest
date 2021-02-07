@@ -21,6 +21,10 @@
            revision="Q"
 	       review="" />
 
+ <remote  name="zhantech"
+           fetch="https://github.com/zhantech"
+           revision="Q" />
+
   <remote  name="bb"
            fetch="https://gitlab.com/rr-os"
            revision="Q"
